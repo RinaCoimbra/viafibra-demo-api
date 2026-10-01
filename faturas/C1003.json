@@ -1,0 +1,30 @@
+{
+  "cliente": "Juliana Ribeiro",
+  "plano": "Fibra 1 Giga",
+  "faturas": [
+    {
+      "mes": "2026-08",
+      "referencia": "agosto de 2026",
+      "valor": "R$ 179,90",
+      "vencimento": "05/08/2026",
+      "status": "paga",
+      "pago_em": "04/08/2026"
+    },
+    {
+      "mes": "2026-09",
+      "referencia": "setembro de 2026",
+      "valor": "R$ 179,90",
+      "vencimento": "05/09/2026",
+      "status": "paga",
+      "pago_em": "05/09/2026"
+    },
+    {
+      "mes": "2026-10",
+      "referencia": "outubro de 2026",
+      "valor": "R$ 179,90",
+      "vencimento": "05/10/2026",
+      "status": "paga",
+      "pago_em": "30/09/2026"
+    }
+  ]
+}

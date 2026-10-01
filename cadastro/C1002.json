@@ -1,0 +1,10 @@
+{
+  "nome": "Carlos Mendes",
+  "endereco": "Rua Monte Alegre, 45, Capela, Vinhedo",
+  "bairro": "Capela",
+  "plano": "Fibra 300 Mega",
+  "valor_mensal": "R$ 99,90",
+  "dia_vencimento": 15,
+  "equipamento": "Wi-Fi 5 Dual Band",
+  "status_contrato": "ativo"
+}

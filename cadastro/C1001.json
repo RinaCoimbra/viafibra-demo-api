@@ -1,0 +1,10 @@
+{
+  "nome": "Ana Souza",
+  "endereco": "Rua das Uvas, 120, Centro, Vinhedo",
+  "bairro": "Centro",
+  "plano": "Fibra 500 Mega",
+  "valor_mensal": "R$ 119,90",
+  "dia_vencimento": 10,
+  "equipamento": "Wi-Fi 6 Dual Band",
+  "status_contrato": "ativo"
+}

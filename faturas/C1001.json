@@ -1,0 +1,31 @@
+{
+  "cliente": "Ana Souza",
+  "plano": "Fibra 500 Mega",
+  "faturas": [
+    {
+      "mes": "2026-08",
+      "referencia": "agosto de 2026",
+      "valor": "R$ 119,90",
+      "vencimento": "10/08/2026",
+      "status": "paga",
+      "pago_em": "09/08/2026"
+    },
+    {
+      "mes": "2026-09",
+      "referencia": "setembro de 2026",
+      "valor": "R$ 119,90",
+      "vencimento": "10/09/2026",
+      "status": "paga",
+      "pago_em": "08/09/2026"
+    },
+    {
+      "mes": "2026-10",
+      "referencia": "outubro de 2026",
+      "valor": "R$ 119,90",
+      "vencimento": "10/10/2026",
+      "status": "em aberto",
+      "pago_em": null,
+      "pix_copia_e_cola_final": "10012610"
+    }
+  ]
+}

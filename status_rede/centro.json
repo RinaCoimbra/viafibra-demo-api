@@ -1,0 +1,9 @@
+{
+  "regiao": "Centro",
+  "ocorrencia_ativa": true,
+  "tipo": "rompimento de fibra",
+  "descricao": "Rompimento de cabo de fibra óptica na Avenida Independência causado por obra da prefeitura. Clientes do Centro podem estar sem conexão ou com lentidão.",
+  "inicio": "hoje às 9h40",
+  "previsao_normalizacao": "hoje até as 18h",
+  "equipe_em_campo": true
+}
