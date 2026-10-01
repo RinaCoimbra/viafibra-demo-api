@@ -3,5 +3,7 @@
   "autenticado": "true",
   "cliente_id": "C1002",
   "cliente_nome": "Carlos",
-  "regiao": "capela"
+  "regiao": "capela",
+  "titular_nome": "Carlos Mendes",
+  "plano": "Fibra 300 Mega"
 }

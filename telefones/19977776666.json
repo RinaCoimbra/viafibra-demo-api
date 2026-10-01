@@ -3,5 +3,7 @@
   "autenticado": "true",
   "cliente_id": "C1003",
   "cliente_nome": "Juliana",
-  "regiao": "pinheirinho"
+  "regiao": "pinheirinho",
+  "titular_nome": "Juliana Ribeiro",
+  "plano": "Fibra 1 Giga"
 }

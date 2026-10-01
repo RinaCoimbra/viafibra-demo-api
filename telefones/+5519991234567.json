@@ -3,5 +3,7 @@
   "autenticado": "true",
   "cliente_id": "C1001",
   "cliente_nome": "Ana",
-  "regiao": "centro"
+  "regiao": "centro",
+  "titular_nome": "Ana Souza",
+  "plano": "Fibra 500 Mega"
 }
